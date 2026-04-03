@@ -1,0 +1,52 @@
+Materials list:
+
+From Mega 2560 Most Complete Starter Kit:
+
+	MEGA 2560 Board
+	RC522 RFID Module
+	Key Fob + RFID Card
+	SG90 Servo
+	Red LED
+	Green LED
+	2× 220Ω resistors
+	Active Buzzer
+	Breadboard
+	Jumper wires
+	USB Cable
+
+Built through CAD:
+
+	Servo bracket
+	Latch slider
+	Latch guide rail
+	Servo horn extension arm
+	Mounting backplate
+	Cable clips
+
+From Mr. Friske's class or from another source:
+
+	Hardware
+
+		M2 x 6mm screws
+		M2 nuts
+		M3 x 10–16mm screws
+		M3 nuts
+		Small metal pin or M2 screw for linkage pivot
+		Wood screws (if mounting to door)
+
+	Fastening & finishing
+
+		3M VHB tape
+		Hot glue or super glue
+		Alignment shims (3D print or buy)
+
+	Add‑ons
+
+		Light return spring (optional)
+		Wire extension cables (Dupont)
+
+	Tools
+
+		Screwdriver
+		Wire cutters
+		Sandpaper
